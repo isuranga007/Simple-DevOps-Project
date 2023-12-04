@@ -1,4 +1,4 @@
-.terraform/
+lab-docs/Terraform codes/.terraform/
 **/*.tfstate
 **/*.tfstate.*
 **/*.tfstate/*
